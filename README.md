@@ -4,7 +4,7 @@
 - 😄 I’m currently learning/I know: Java / Java Script / Html / Css / Sql / Type script / Python (pandas)
 - ⚡ My phrase: you may not have talent but bravely is a must
 
-  all I do is for training, be free to take a look!
+  all I do is for training, be free to take a look! ✨
 
 <!--
 **BeatrizBortolucci/BeatrizBortolucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
