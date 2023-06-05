@@ -1,7 +1,7 @@
 ### Hi there I'm Beatriz👋
 
 - 💬 I'm a systems development student and a future full-stack programmer.
-- 😄 I’m currently learning/I know: Java / Java Script / Html / Css / Sql / Type script / Python (pandas)
+- 😄 I’m currently learning/I know: Java / Java Script / Html / Css / Sql / Python (pandas)
 - ⚡ My phrase: you may not have talent but bravely is a must
 
 <div style="text-align: center">
